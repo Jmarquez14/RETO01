@@ -1,0 +1,129 @@
+body{
+    background: #F8BBD0;
+    color: #212121;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    
+    
+} 
+header{
+    margin-top: 15px;
+    text-align: center; 
+}
+.linkcodea{
+    text-decoration: none;
+    color: #212121;
+}
+nav{
+    margin-top: 17px;
+    text-align: center;
+}
+
+
+nav .insta{
+    height: 35px;
+    width: 35px;
+}
+.linkedin{
+    height: 35px;
+    width: 35px;
+}
+.github{
+    height: 35px;
+    width: 35px;
+    
+}
+.email{
+    height: 35px;
+    width: 35px;
+}
+
+.imx{
+    margin: 0 auto;
+    display: block;
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    margin-top: 35px;
+    margin-bottom: 14px;
+    box-shadow: -2px 0px 0px ;
+    
+}
+section{
+    text-align: center;
+    margin-top: -32px;
+    margin-bottom: 70px;
+    
+}
+.box-1{
+    
+    width: 300px;
+    height: 88px;
+    border-radius: 3px;
+    padding: 30px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.box-2{
+    display: inline-block;
+    
+
+}
+.box-2 .btn-1{
+font-size: 17px;
+background: #C2185B;
+color: #FFFFFF;
+padding: 7px 10px 7px 10px;
+text-decoration: none;
+border-radius: 5px;
+}
+.box-2 .btn-1:hover{
+    background: #E91E63;
+    color: #212121;
+    font-size: larger;
+    
+}
+.box-2 .btn-2{
+font-size: 17px;
+background: #C2185B; 
+color: #FFFFFF;
+padding: 7px 10px 7px 10px;
+text-decoration: none;
+border-radius: 5px;
+}
+.box-2 .btn-2:hover{
+    background: #E91E63;
+    color: #212121;
+    font-size: larger;
+}
+.box-2 .btn-3{
+font-size: 17px;
+background: #C2185B;
+color: #FFFFFF;
+padding: 7px 10px 7px 10px;
+text-decoration: none;
+border-radius: 5px;
+
+}
+.box-2 .btn-3:hover{
+    background: #E91E63;
+    color: #212121;
+    font-size: larger;
+}
+footer{
+    height: 151px;
+    background: #BDBDBD;
+    text-align: center;
+    padding: 20px;
+    
+}
+body{
+    text-align: center;
+}
+.ney{
+    height: 500px;
+    width: 500px;
+    margin-top: 20vh;
+    
+}
