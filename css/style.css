@@ -1,11 +1,12 @@
+
 body{
     background: #F8BBD0;
     color: #212121;
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
-    
-    
 } 
+
+
 header{
     margin-top: 15px;
     text-align: center; 
@@ -112,18 +113,25 @@ border-radius: 5px;
     font-size: larger;
 }
 footer{
-    height: 151px;
-    background: #BDBDBD;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     text-align: center;
+    
+}
+.pieDePag{
+    height: 15px;
+    background: #BDBDBD;
+    display: flex;
+    justify-content: flex-end;
     padding: 20px;
     
 }
-body{
-    text-align: center;
-}
+
 .ney{
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     margin-top: 20vh;
     
 }
